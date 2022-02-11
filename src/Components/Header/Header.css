@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+
+.container {
+  padding: 80px 20px;
+  margin: 0 auto;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 75vh;
+  font-size: 2em;
+  background-color: #f9f5e8;
+  text-align: left;
+}
+
+.hero-img {
+  background-color: #fdd65b;
+  /* background-image: url("./hero.svg") !important; */
+  /* background-repeat: no-repeat; */
+}
+
+.hero {
+  margin-top: 16vh;
+  width: 75%;
+}
+
+.bottom {
+  width: 100%;
+}
+
+.desc {
+  margin-top: 6vh;
+  font-size: 22px;
+}
+
+.header_font {
+  font-size: 1.5em;
+  margin: 0;
+  color: rgb(95, 74, 74);
+  font-family: "Yeseva One", cursive;
+  will-change: transform;
+  transition: transform 800ms;
+}
+
+.header_font:hover {
+  transition: transform 600ms;
+  transform: translateY(-10px);
+}
+
+.cta-btn {
+  background-color: #00715d;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 18px;
+  margin-top: 8vh;
+  cursor: pointer;
+}
+
+.cta-btn:hover {
+  color: #00715d;
+  background-color: white;
+  border: 2px solid #00715d;
+}

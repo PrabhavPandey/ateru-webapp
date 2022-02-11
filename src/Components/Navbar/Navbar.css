@@ -1,0 +1,59 @@
+.title {
+  color: rgb(49, 49, 49);
+  font-size: 1.5em;
+  width: 50vw !important;
+  padding-left: 4vw;
+}
+
+.nav {
+  background-color: #00000000;
+  width: 100%;
+}
+
+.nav-items {
+  background-color: transparent;
+  color: rgb(49, 49, 49);
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
+
+.nav_container {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.nav_right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 50vw;
+  color: rgb(29, 29, 29);
+  background-color: #fdd65b;
+  min-height: 16vh;
+  padding-right: 2vw;
+}
+
+.nav_right > * {
+  margin-left: 2em;
+}
+
+.loginButton {
+  background-color: #00725d8f;
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  font-weight: bold;
+  padding: 0.3em 1.7em;
+  border-color: #00725e;
+  border-radius: 6px;
+  transition: 0.2s ease-in;
+}
+
+.loginButton:hover {
+  background-color: #00725e;
+  color: rgb(255, 255, 255);
+}

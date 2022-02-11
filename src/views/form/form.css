@@ -1,0 +1,133 @@
+.body {
+    background-color: white;
+    font-family: Roboto;
+}
+
+.header {
+    background-color: #00715D;
+    height:10vh;
+}
+
+.nav_container {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.title {
+    color: white;
+    font-size: 1.5em;
+    width: 50vw !important;
+    padding-left: 4vw;
+}
+
+.nav_right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 50vw;
+    color: white;
+    min-height: 16vh;
+    padding-right: 2vw;
+}
+
+.nav-items {
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+
+.form-heading {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 5vw;
+    color:#00715D;
+
+}
+
+
+.submit-btn {
+    background-color: #00715cd5;
+    padding: 0.4rem 1.2rem 0.4rem 1.2rem;
+    color: white;
+    border: none;
+    margin-top: 1rem;
+    /*button ko center align*/
+}
+
+.split {
+    width: 50%;
+    height: 100%;
+    position: fixed;
+}
+
+.left {
+    left:5vw;
+}
+
+.right {
+    right:0;
+}
+
+.type-box {
+    position: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    color: #726C6C;
+    background: #F9F5E8;
+    border: 1px solid #00715D;
+    box-sizing: border-box;
+}
+
+.email-field {
+    width: 40vw;
+    height: 4rem;
+}
+
+.name-field {
+    width: 40vw;
+    height: 4rem;
+
+}
+
+.note-field {
+    width: 40vw;
+    height: 10rem;
+}
+
+
+.amts {
+    line-height: 1.5rem;
+    justify-content: space-between;
+
+}
+
+
+.amt-btn {
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    background: white;
+    border: 1px solid #00715D;
+}
+
+.amt-btn:hover {
+    background: #e4e3e2;
+}
+
+.cstm-amt {
+    background: #FDD65B;
+    border: 1px solid black;
+    width: 6.5rem;
+}

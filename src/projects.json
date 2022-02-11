@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "projectName": "Jonathan Jstar",
+    "picture": "https://cdn.costumewall.com/wp-content/uploads/2018/09/young-jonathan-joestar.jpg",
+    "gif": "https://i.pinimg.com/originals/37/ed/ef/37edef96f91d657cdd4b64013b19b848.gif",
+    "icon": "https://i.pinimg.com/originals/d5/95/3b/d5953bd404c422078ba88b5e1b613abe.png",
+    "description": "The son of George Joestar I, Jonathan is an honest, kind and positive man whose life is fraught with tragedy after meeting his adopted older brother, Dio Brando.",
+    "status": "none",
+    "wallet": "tz2JxQqaMMZRGarvE8nBKrvnZFtGUZP6BurD",
+    "recentHash": "none"
+  },
+  {
+    "id": 2,
+    "projectName": "Boogie Woogie",
+    "picture": "https://otakusnotes.com/wp-content/uploads/2020/12/Screenshot-10.jpg?ezimgfmt=rs:412x232/rscb10/ng:webp/ngcb10",
+    "gif": "https://64.media.tumblr.com/7787fbdcada0d0e189c5a92203e6172b/be1367fba7302f32-0d/s640x960/50bb89e17c1913b5d814bf70923dd0e29ba21486.gif",
+    "icon": "https://i.pinimg.com/originals/6f/ec/66/6fec66495f05387d53c411085a85cb2d.jpg",
+    "description": "Boogie Woogie is Aoi Todo's Innate Technique which allows him to switch places with another person or object by clapping his hands.",
+    "status": "none",
+    "wallet": "tz2CHEytuFbbbKrM1jRd2QiWiCahGTQvVRvk",
+    "recentHash": "none"
+  },
+  {
+    "id": 3,
+    "projectName": "Fire",
+    "picture": "https://chaospin.com/wp-content/uploads/2020/07/fire-force-s2-1280x720.jpg",
+    "gif": "https://i.pinimg.com/originals/53/2a/50/532a50ca80365afb0ca2c36a28f4df5a.gif",
+    "icon": "https://pbs.twimg.com/profile_images/1183852652901421058/_m5YtZfB_400x400.jpg",
+    "description": "Shinra Kusakabe is a third generation pyrokinetic youth who gained the nickname 'Devil's Footprints' for his ability to ignite his feet at will. He joins Special Fire Force Company 8, which features other pyrokinetics who dedicated themselves to ending the Infernal attacks for good while investigating Companies 1 through 7 for potential corruption in their ranks.",
+    "status": "none",
+    "wallet": "tz2C3Gkw98LUbry2bHEMoTf7YCo9W3ngAAnF",
+    "recentHash": "none"
+  },
+  {
+    "id": 4,
+    "projectName": "Bungee Gum",
+    "picture": "https://i.pinimg.com/originals/9f/82/61/9f826114b02da154432c5b122a677176.png",
+    "gif": "https://pa1.narvii.com/5824/6b8d2efa953f03e4ce63532a5df28f076f7e14f1_hq.gif",
+    "icon": "https://images-na.ssl-images-amazon.com/images/I/41t8pV5aNeL._AC_SY450_.jpg",
+    "description": "Bungee gum has both the properties of rubber a gum",
+    "status": "none",
+    "wallet": "tz2AGyfFi6dBfxzugcBcfLUZqFMAQryoHW9E",
+    "recentHash": "none"
+  },
+  {
+    "id": 5,
+    "projectName": "Star Platinum",
+    "picture": "https://qph.fs.quoracdn.net/main-qimg-ae4d9e5c353c09c84ba431f3b5ae635a",
+    "gif": "https://i.pinimg.com/originals/79/01/8b/79018b5c4e33d94d03f929d64a164b94.gif",
+    "icon": "http://pm1.narvii.com/6770/a1e92fd9f9bce8e07f623462257cd88ef13a2152v2_00.jpg",
+    "description": "Star Platinum is a humanoid Stand, resembling a tall, well-built man of similar proportions to Jotaro, if not more muscular. In colored art, its skin is often a hue between purple, blue, green, and small bits of gold. Its face and body have varying colors.",
+    "status": "none",
+    "wallet": "tz2G8RTQd5oX4GU4Acnmks9YkDvc2Jh2kr2H",
+    "recentHash": "none"
+  },
+  {
+    "id": 6,
+    "projectName": "Dragon",
+    "picture": "https://i.pinimg.com/originals/81/cd/e9/81cde96c6b214703cfc2378a66720806.jpg",
+    "gif": "https://i.pinimg.com/originals/c7/0c/7c/c70c7c900f613a09635728b6e9ffffb5.gif",
+    "icon": "https://i.pinimg.com/originals/82/76/14/827614af863ed015f41ea7b01f054e29.png",
+    "description": "When using the Darkness Flame, Hiei removes the sealing cloth wrapped around his arm and then proceeds to concentrate his demonic energy and also activates his Jagan at the same time. His energy used at bait to lure the dragon while his Jagan allows him to understand its properties and master it",
+    "status": "none",
+    "wallet": "tz2T6p4kWGHipyZM5sgestddcruRJs17in1F",
+    "recentHash": "none"
+  }
+]

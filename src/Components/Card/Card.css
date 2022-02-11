@@ -1,0 +1,67 @@
+.card_wrapper {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 22px;
+  grid-row-gap: 70px;
+  color: white;
+}
+
+.card_container {
+  padding-bottom: 2em;
+  padding-left: 5em;
+  background-color: white;
+}
+
+.card {
+  padding: 1em;
+  border-radius: 10px;
+
+  background-color: #f9f5e8;
+
+  transition: 0.2s ease-in;
+  width: 26vw;
+}
+.card:hover {
+  box-shadow: 0 0 11px rgba(33, 33, 33, 0.2);
+}
+.card > h3 {
+  margin: 24px;
+  font-size: 3em;
+}
+
+.card_picture {
+  max-width: 100%;
+  height: fit-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: fill;
+  border-radius: 30px;
+  transition: 0.2s ease-in;
+  padding: -2vw;
+}
+
+.text {
+  color: black;
+  text-align: center;
+  font-weight: 400;
+  font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+    "Helvetica Neue", sans-serif;
+}
+
+.counter {
+  text-align: center;
+  padding: 10px;
+  color: black;
+  font-size: medium;
+  font-weight: 700;
+}
+
+.image {
+  width: 60%;
+  margin: 0vw 5vw;
+  border-radius: 6px;
+}
+.donated {
+  color: green;
+}
