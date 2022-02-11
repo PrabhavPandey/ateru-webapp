@@ -8,7 +8,7 @@ import { HashLink as Link } from "react-router-hash-link";
 function Header() {
   return (
     <div>
-      <div className="header">
+      <div className="header-header">
         <div className="container">
           <h4 className="header_font">Charity is an Act of a Soft Heart.</h4>
           <p className="desc">

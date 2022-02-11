@@ -120,7 +120,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <>
       <div className="app">
         <div className="nav">
           <div className="nav_container">
@@ -152,7 +152,7 @@ function App() {
         <Working />
         <hr />
       </div>
-    </BrowserRouter>
+    </>
   );
 }
 

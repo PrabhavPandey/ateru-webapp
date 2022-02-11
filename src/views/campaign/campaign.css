@@ -1,126 +1,119 @@
-
-.header {
-    height: 15vh;
-    background-color: #00715D;
-    color: white;
+.header-campaign {
+  background-color: #00715d;
+  color: white;
 }
 .nav_container {
-    padding: 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0 auto;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
 }
 .title {
-    color: white;
-    font-size: 1.5em;
-    width: 50vw !important;
-    padding-left: 4vw;
+  color: white;
+  font-size: 1.5em;
+  width: 50vw !important;
+  padding-left: 4vw;
 }
 
 .nav_right {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    width: 50vw;
-    color: white;
-    min-height: 16vh;
-    padding-right: 2vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 50vw;
+  color: white;
+  min-height: 16vh;
+  padding-right: 2vw;
 }
 
 .nav-items {
-    background-color: transparent;
-    color: white;
-    font-size: 17px;
-    font-weight: 600;
-    border: none;
-    cursor: pointer;
+  background-color: transparent;
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
 }
 
 .nav-items:hover {
-    color: rgb(228, 225, 225);
-}
-
-.body {
-    margin-top:3rem;
+  color: rgb(228, 225, 225);
 }
 
 .split {
-    width: 50%;
-    height: 100%;
-    position: fixed;
+  width: 40%;
+  height: 100%;
+  margin-right: 6vw;
 }
 
 .left {
-    left:5vw;
+  left: 5vw;
 }
 
 .right {
-    right:5vw;
-    text-align: right;
+  text-align: right;
 }
 
 .line {
-    position: absolute;
-    width: 12rem;
-    height: 2px;
-    border: 1px solid #00715D;
-    right:0;
-    background-color: #00715D;
-    border-radius: 3px;
+  position: absolute;
+  width: 12rem;
+  height: 2px;
+  border: 1px solid #00715d;
+  right: 0;
+  background-color: #00715d;
+  border-radius: 3px;
 }
 
 .campaign-heading {
-    font-size: 2.5rem;
-    color:#00715D;
+  font-size: 2.5rem;
+  color: #00715d;
 }
 
 .campaign-img {
-    height: 75vh;
-    width: auto;
+  height: 75vh;
+  width: auto;
 }
 
-p {
-    text-align: left;
+.okok {
+  text-align: left;
 }
 
 .loading-bar-border {
-    width: 75%;
-    background-color: #919191;
-    height: 3rem;
-    
+  width: 75%;
+  background-color: #919191;
+  height: 3rem;
 }
 
 .loaded {
-    letter-spacing: 0.1rem;
-    width: 75%;
-    background-color: #00715D;
-    height: 3rem;
-    text-align: center;
-    line-height: 3rem;
-    font-size: larger;
-    font-weight: 100;
+  letter-spacing: 0.1rem;
+  width: 75%;
+  background-color: #00715d;
+  height: 3rem;
+  text-align: center;
+  line-height: 3rem;
+  font-size: larger;
+  font-weight: 100;
 }
 
 .donate-btn {
-    height: 3rem;
-    width:20%;
-    background-color: #00715D;
-    color:white;
-    border: none;
-    font-weight: 100;
-    letter-spacing: 0.1rem;
-    font-size: larger;
+  height: 3rem;
+  width: 120%;
+  background-color: #00715d;
+  color: white;
+  border: none;
+  font-weight: 100;
+  letter-spacing: 0.1rem;
+  font-size: larger;
+  padding-right: 1vw;
 }
 
 .donate-btn:hover {
-    background-color:#025c4b;
+  background-color: #025c4b;
 }
 
 .progress-bar {
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

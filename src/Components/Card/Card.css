@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap");
+
 .card_wrapper {
   width: 100%;
   display: grid;
@@ -14,7 +16,7 @@
 }
 
 .card {
-  padding: 1em;
+  padding: 3em;
   border-radius: 10px;
 
   background-color: #f9f5e8;
@@ -44,9 +46,11 @@
 .text {
   color: black;
   text-align: center;
+  line-height: 1.4;
   font-weight: 400;
-  font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
-    "Helvetica Neue", sans-serif;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none !important;
+  margin-top: 4vh;
 }
 
 .counter {

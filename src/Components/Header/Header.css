@@ -5,7 +5,7 @@
   margin: 0 auto;
 }
 
-.header {
+.header-header {
   display: grid;
   grid-template-columns: 1fr 1fr;
   height: 75vh;
