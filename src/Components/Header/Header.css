@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
 
 .container {
-  padding: 80px 20px;
+  padding: 80px 6vw;
   margin: 0 auto;
 }
 
@@ -31,7 +31,7 @@
 
 .desc {
   margin-top: 6vh;
-  font-size: 22px;
+  font-size: 20.5px;
 }
 
 .header_font {

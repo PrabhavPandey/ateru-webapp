@@ -14,8 +14,9 @@ body {
   justify-content: center;
   margin-top: 1em;
 }
+
 .title {
-  color: rgb(49, 49, 49);
+  color: rgb(34, 34, 34) !important;
   font-size: 1.5em;
   width: 50vw !important;
   padding-left: 4vw;
@@ -28,7 +29,7 @@ body {
 
 .nav-items {
   background-color: transparent;
-  color: rgb(49, 49, 49);
+  color: rgb(31, 31, 31) !important;
   font-size: 17px;
   font-weight: 600;
   border: none;
@@ -48,7 +49,6 @@ body {
   justify-content: flex-end;
   align-items: center;
   width: 50vw;
-  color: rgb(29, 29, 29);
   background-color: #fdd65b;
   min-height: 16vh;
   padding-right: 2vw;

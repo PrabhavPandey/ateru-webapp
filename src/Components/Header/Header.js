@@ -12,10 +12,10 @@ function Header() {
         <div className="container">
           <h4 className="header_font">Charity is an Act of a Soft Heart.</h4>
           <p className="desc">
-            PM cares fund ki mkc. We good ppl, plis donate here PM cares fund ki
-            mkc. We good ppl, plis donate here PM cares fund ki mkc. We good
-            ppl, plis donate here PM cares fund ki mkc. We good ppl, plis donate
-            here
+            Ever wanted to donate money to a cause or a person in need, but
+            mistrust in the system got in the way? You're not alone. Donation
+            sites for the longest time have just been money-leeching
+            organisations. We're here to change that.
           </p>
           <Link to="#cardcontainer" smooth>
             <button className="cta-btn">Donate Here</button>
