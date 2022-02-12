@@ -1,0 +1,75 @@
+.nft-container {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 300px;
+}
+
+.nft-header {
+  margin: 30px;
+  font-size: larger;
+  display: inline-block;
+  flex-direction: row;
+}
+.nft-button {
+  border-radius: 5px;
+  max-width: 100%;
+  background: white;
+  cursor: pointer;
+  color: #eee;
+  font-family: sans-serif;
+  font-size: inherit;
+  padding: 3px 10px 3px 10px;
+
+  justify-content: right;
+  text-decoration: none !important;
+  transition: 0.2 ease-in;
+}
+
+.nft-button:hover {
+  background-color: black;
+}
+
+.nftlogo {
+  color: rgb(49, 49, 49);
+  font-size: 3em;
+  width: 50vw !important;
+
+  justify-content: center;
+  padding-left: 46vw;
+  display: inline-block;
+  flex-direction: row;
+}
+
+.liked {
+  margin-left: 73vw;
+  margin-top: 10px;
+}
+
+.operation {
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.loading-bar-border-2 {
+  width: 20%;
+  background-color: #919191;
+  height: 1rem;
+  margin-top: 10px;
+}
+.loaded-2 {
+  letter-spacing: 0.1rem;
+  width: 70%;
+  background-color: #00715d;
+  height: 1rem;
+  text-align: center;
+  line-height: 3rem;
+  font-size: larger;
+  font-weight: 100;
+  margin-top: 10px;
+}
+
+.raised-text {
+  padding-left: 30px;
+  display: flex;
+  font-size: 0.6em;
+}
