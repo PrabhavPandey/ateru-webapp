@@ -38,7 +38,7 @@ function Nft() {
             </div>
           </div> */}
         </div>
-        <div className="split-2 right">
+        <div className="split-2 right-nft">
           <p>
             8 XTZ <br /> Via you <br /> On Kukai Wallet
           </p>

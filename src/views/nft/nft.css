@@ -85,14 +85,15 @@
   border: 4px solid greenyellow;
 }
 
-.right {
-  position: relative;
-  bottom: 14vh;
-}
-
 .copyright {
   width: fit-content;
   text-align: center;
   margin-left: 20vw;
   margin-top: 4vh;
+}
+
+.right-nft {
+  position: relative;
+  left: 47vw;
+  bottom: 8vh;
 }
