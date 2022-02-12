@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Status from "../Status";
 import "../Card/Card.css";
-import charity from "../Card/flood.jpeg";
+import charity from "../Card/hospital.jpeg";
 import { Link } from "react-router-dom";
 export default function Card({ data, setActive, user, updateProjects }) {
   const [pictureType, setpictureType] = useState("static");
@@ -29,10 +29,8 @@ export default function Card({ data, setActive, user, updateProjects }) {
             <Status updateProjects={updateProjects} data={data} />
           )}
 
-          <p className="text" >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-            mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-            voluptatum laborum numquam blanditiis harum.
+          <p className="text">
+            Help to Re-Settle the families affected from Covid-19 & Lockdown.
           </p>
           <p className="counter">
             <span className="donated">500</span>

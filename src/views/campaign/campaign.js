@@ -25,11 +25,11 @@ function Campaign() {
         <div className="split left">
           <img
             className="campaign-img"
-            src="https://images.viacbs.tech/uri/mgid:arc:content:nick.com:a625d441-bbbf-42c8-9927-6a0157aac911?quality=0.7"
+            src="https://cdn.discordapp.com/attachments/886938936352596019/942037354879791174/cofid.jpeg"
           />
         </div>
         <div className="split right">
-          <h1 className="campaign-heading">pls give money</h1>
+          <h1 className="campaign-heading">Please Help these families out</h1>
           <hr className="line" /> <br />
           <div className="progress-bar">
             <div className="loading-bar-border">
@@ -39,32 +39,28 @@ function Campaign() {
               <button className="donate-btn">Donate Now</button>
             </Link>
           </div>
+          <p className="okok"></p>
+          <br />
           <p className="okok">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.s
+            The novel coronavirus (COVID-19) pandemic is impacting everyone,
+            some more drastically than others. For a number of families, it
+            could mean making big changes in everyday routines due to financial
+            hardships.
           </p>
+          <br />
           <p className="okok">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.s
+            The condition due to the COVID-19 pandemic is getting worse by the
+            day They have lost their livelihood and their savings. They are
+            forced to live an empty stomach.These Families are in urgent need
+            for aid.
           </p>
+          <br />
           <p className="okok">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.s
+            Our unity had been our biggest strength, we are also aware that many
+            hands would not raise as people are deeply affected due to the
+            crisis caused by the COVID-19 pandemic. We are looking for support
+            from those who are in a better financial condition and can help
+            these neediest families.
           </p>
         </div>
       </div>
