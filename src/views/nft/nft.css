@@ -6,7 +6,7 @@
 
 .nft-header {
   margin: 30px;
-  font-size: larger;
+  font-size: large;
   display: inline-block;
   flex-direction: row;
 }
@@ -26,7 +26,7 @@
 }
 
 .nft-button:hover {
-  background-color: black;
+  background-color: rgb(172, 172, 172);
 }
 
 .nftlogo {
@@ -49,6 +49,7 @@
   padding: 20px;
   margin-top: 20px;
   margin-left: 20px;
+  font-weight: 600;
 }
 .loading-bar-border-2 {
   width: 20%;
@@ -72,4 +73,26 @@
   padding-left: 30px;
   display: flex;
   font-size: 0.6em;
+}
+
+.entire-content {
+  margin-left: 19vw;
+  font-size: large;
+}
+
+.nft-img {
+  border-radius: 10px;
+  border: 4px solid greenyellow;
+}
+
+.right {
+  position: relative;
+  bottom: 14vh;
+}
+
+.copyright {
+  width: fit-content;
+  text-align: center;
+  margin-left: 20vw;
+  margin-top: 4vh;
 }

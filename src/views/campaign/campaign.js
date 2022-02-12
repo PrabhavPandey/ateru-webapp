@@ -25,7 +25,7 @@ function Campaign() {
         <div className="split left">
           <img
             className="campaign-img"
-            src="https://cdn.discordapp.com/attachments/886938936352596019/942037354879791174/cofid.jpeg"
+            src="https://pulitzercenter.org/sites/default/files/styles/1340x815_scale/public/06-16-14/india-hospitals-samisiva-2014-01.jpg?itok=CSMP5_qR"
           />
         </div>
         <div className="split right">

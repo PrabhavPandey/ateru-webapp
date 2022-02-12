@@ -1,6 +1,8 @@
 import React from "react";
 import "./form.css";
 import { Link } from "react-router-dom";
+import payment from "../form/pay.svg";
+
 function Form() {
   return (
     <div>
@@ -29,26 +31,26 @@ function Form() {
                 className="type-box name-field"
                 type="text"
                 name="name"
-                placeholder="full name"
+                placeholder="Enter your full name"
               />
               <br />
               <input
                 className="type-box email-field"
                 type="email"
                 name="email"
-                placeholder="email id"
+                placeholder="Enter your email ID"
               />{" "}
               <br />
-              <textarea
+              <input
                 className="type-box note-field"
-                placeholder="note"
-              ></textarea>
+                placeholder="Enter a custom note here (optional)"
+              ></input>
               <p className="donate-text">I would like to donate:</p>
-              <input className="amts amt-btn" value="Rs. 10000" type="button" />
-              <input className="amts amt-btn" value="Rs. 5000" type="button" />
-              <input className="amts amt-btn" value="Rs. 2500" type="button" />
-              <input className="amts amt-btn" value="Rs. 1500" type="button" />
-              <input className="amts amt-btn" value="Rs. 500" type="button" />
+              <input className="amts amt-btn" value="10 XTZ " type="button" />
+              <input className="amts amt-btn" value="8 XTZ" type="button" />
+              <input className="amts amt-btn" value="6 XTZ" type="button" />
+              <input className="amts amt-btn" value="5 XTZ" type="button" />
+              <input className="amts amt-btn" value="2 XTZ" type="button" />
               <input
                 className="amts cstm-amt"
                 placeholder="Custom Amount"
@@ -65,7 +67,7 @@ function Form() {
           </form>
         </div>
         <div className="split right">
-          <img src="https://www.nme.com/wp-content/uploads/2021/07/RickAstley2021-696x442.jpg" />
+          <img src={payment} height="360px" />
         </div>
       </div>
     </div>

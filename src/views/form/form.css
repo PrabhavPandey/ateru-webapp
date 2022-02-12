@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap");
+
 .body {
   background-color: white;
   font-family: Roboto;
@@ -48,12 +50,15 @@
 }
 
 .submit-btn {
-  background-color: #00715cd5;
-  padding: 0.4rem 1.2rem 0.4rem 1.2rem;
+  background-color: #00715d;
   color: white;
+  font-weight: 600;
+  font-size: 18px;
   border: none;
-  margin-top: 1rem;
-  /*button ko center align*/
+  border-radius: 6px;
+  padding: 8px 18px;
+  margin-top: 3vh;
+  cursor: pointer;
 }
 
 .split {
@@ -71,43 +76,38 @@
 }
 
 .type-box {
-  position: left;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 21px;
-  line-height: 25px;
+  font-family: "Montserrat";
+  font-size: 17px;
   display: flex;
-  align-items: center;
-  text-align: left;
-  color: #726c6c;
+  color: #272727;
   background: #f9f5e8;
-  border: 1px solid #00715d;
+  border: 2px solid #00715d;
+  border-radius: 6px;
   box-sizing: border-box;
-  padding: 5px;
+  padding: 18px 8px 18px 12px;
 }
 
 .email-field {
   width: 40vw;
-  height: 4rem;
+  height: 2rem;
 }
 
 .name-field {
   width: 40vw;
-  height: 4rem;
+  height: 2rem;
   margin-top: 4vh;
 }
 
 .note-field {
   width: 40vw;
-  height: 10rem;
+  height: 4rem;
 }
 
 .amts {
-  line-height: 1.5rem;
   justify-content: space-between;
+  font-size: 15px;
   margin-right: 10px;
-  padding: 3px;
+  padding: 10px;
 }
 
 .amt-btn {
@@ -115,17 +115,23 @@
   font-weight: normal;
   text-align: center;
   background: white;
-  border: 1px solid #00715d;
+  border: 2px solid #27b69c;
 }
 
 .amt-btn:hover {
   background: #e4e3e2;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+  box-shadow: 3px 3px;
 }
 
 .cstm-amt {
   background: #fdd65b;
   border: 1px solid black;
-  width: 6.5rem;
+  width: 10rem;
 }
 
 .donate-text {
