@@ -41,7 +41,7 @@
 }
 
 .liked {
-  margin-left: 73vw;
+  margin-left: 70vw;
   margin-top: 10px;
 }
 
@@ -86,10 +86,9 @@
 }
 
 .copyright {
-  width: fit-content;
-  text-align: center;
-  margin-left: 20vw;
-  margin-top: 4vh;
+  margin-left: 20.4vw;
+  position: relative;
+  top: 5.6vh;
 }
 
 .right-nft {

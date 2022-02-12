@@ -1,11 +1,3 @@
-html {
-  overflow-y: scroll;
-  overflow-x: hidden;
-}
-body {
-  position: absolute;
-}
-
 .header-campaign {
   background-color: #00715d;
   color: white;
@@ -54,28 +46,29 @@ body {
 }
 
 .left {
-  left: 8vw;
-  margin-top: 4vh;
+  left: 9vw;
+  margin-top: 8vh;
 }
 
 .right {
   text-align: right;
-  margin-top: 8vh;
+  margin-top: 12.4vh;
 }
 
 .line {
-  position: absolute;
+  position: relative;
   width: 12rem;
-  height: 2px;
+  height: 2.4px;
   border: 1px solid #00715d;
-  right: 0;
   background-color: #00715d;
-  border-radius: 3px;
+  left: 24vw;
 }
 
 .campaign-heading {
   font-size: 2.5rem;
   color: #00715d;
+  position: relative;
+  right: 3vw;
 }
 
 .campaign-img {
@@ -86,12 +79,13 @@ body {
 
 .okok {
   text-align: left;
+  font-size: 17.4px;
 }
 
 .loading-bar-border {
   width: 75%;
   background-color: #919191;
-  height: 3rem;
+  height: 2rem;
   border-radius: 10px;
 }
 
@@ -99,23 +93,24 @@ body {
   letter-spacing: 0.1rem;
   width: 75%;
   background-color: #15ac90;
-  height: 3rem;
+  height: 2rem;
   text-align: center;
-  line-height: 3rem;
+  line-height: 2rem;
   font-size: larger;
   font-weight: 100;
   border-radius: 10px;
 }
 
 .donate-btn {
-  height: 3rem;
-  width: 120%;
+  position: relative;
+  bottom: 4px;
+  height: 2.4rem;
+  padding: 6px 10px;
   background-color: #00715d;
   color: white;
   border: none;
-  font-weight: 100;
   letter-spacing: 0.1rem;
-  font-size: larger;
+  font-size: large;
   border-radius: 6px;
 }
 
