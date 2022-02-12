@@ -1,5 +1,38 @@
-.test {
-  color: black;
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.head1{
   text-align: center;
-  padding: 2rem;
+  font-family: 'Yeseva One', cursive;
+  color: #00725e;
+  font-size: 2.5em;
+  margin-bottom: 2vh;
+  margin-top: 10vh;
+}
+
+.body-intro {
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-left: 24rem;
+  padding-right: 24rem;
+  margin-bottom: 14vh;
+}
+
+.working-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4rem;
+  margin-bottom: 1rem;
+  gap: 2rem;
+}
+
+.working-body {
+  padding-right: 4rem;
+  max-width: 69ch;
+  text-align: justify;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.working-img-1 {
+  border-radius: 10px;
 }

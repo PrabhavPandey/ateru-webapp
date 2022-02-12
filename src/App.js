@@ -148,9 +148,9 @@ function App() {
           setActive={setActiveProject}
           updateProjects={updateProjects}
         ></CardContainer>
-        <hr />
+        
         <Working />
-        <hr />
+        
       </div>
     </>
   );
