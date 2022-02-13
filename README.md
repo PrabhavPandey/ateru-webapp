@@ -6,12 +6,13 @@ A Web3 based donation platform built on the Tezos blockchain. Ateru aims to make
 
 _Built during the HackNITP Hackathon organised by NIT Patna on the Healthcare and Open Innovation tracks_
 
+Please note that as this was a 48 hour hackathon, we could not make the site responsive. We built it with reference to the 14" breakpoint
 <br />
 
 ## 🔗Relevant Links
 
 1. **Presentation Deck**: [Click Here](https://drive.google.com/file/d/1XXpS4lpJztiEFqpRkTBsf4kk3PiiMm8c/view?usp=sharing)
-2. **Video Pitch**: 
+2. **Video Pitch**: [Watch Here](https://youtu.be/nuU5HW9zQyE)
 
 <br />
 
@@ -32,7 +33,7 @@ _This was Ateru for you in under 100 words!_
 1. Clone the repository with the following command
 
 ```sh
-git clone https://github.com/prabhavpandey/ateru-webapp.git
+git clone https://github.com/PrabhavPandey/ateru-webapp.git
 ```
 
 2. Run `npm install` or `yarn install` to install all the dependencies
@@ -42,9 +43,19 @@ git clone https://github.com/prabhavpandey/ateru-webapp.git
 
 ## 👀Current Deployment
 
-The site is currently live on Netlify on this link: [Ateru](https://ateru.netlify.app/) 
+**The site is currently live on Netlify on this link**: [Ateru](https://ateru.netlify.app/) 
 
 _For demonstrative purposes only_
+
+**Some Screenshots of the Website**
+
+<p align="left"> 
+<img src="https://user-images.githubusercontent.com/18113725/153751047-2ac66827-2bb9-489d-b240-820693e5b29a.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751052-61b82bae-a761-488c-8c83-22cf14aba764.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751053-087e5868-2435-4f6c-a7d5-492d5c5bfd9e.PNG" width="400px" />
+<img src="https://user-images.githubusercontent.com/18113725/153751055-cdda9f4f-d739-4e81-95a5-61562456b7da.PNG" width="400px" />
+  </p>
+
 
 <br />
 
